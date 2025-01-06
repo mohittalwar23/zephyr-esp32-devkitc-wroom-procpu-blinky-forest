@@ -25,9 +25,7 @@ Make sure zephyr is already installed with espressif toolchain and other depende
   git clone https://github.com/mohittalwar23/zephyr-esp32-devkitc-wroom-procpu-blinky-forest
 ```
 
-####  2. Open the Directory, rename it app or anything suitable
-
-The Structure of your directory should look like this
+####  2. The Structure of your directory should look like this
 
 ```bash
   app
